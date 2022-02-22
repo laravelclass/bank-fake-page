@@ -8,6 +8,7 @@
             "email": "laravelclass2022@gmail.com"
         }
     ],
+    "license": "MIT",
     "require": {
         "illuminate/support": "8.*",
         "illuminate/routing": "8.*",
