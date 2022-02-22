@@ -12,7 +12,6 @@
     "require": {
         "illuminate/support": "8.*",
         "illuminate/routing": "8.*",
-        "illuminate/foundation": "1.*",
         "illuminate/mail": "8.*",
         "illuminate/queue": "8.*",
         "illuminate/bus": "8.*"
