@@ -31,7 +31,12 @@ https://www.instagram.com/ali.rahmanian.s.a
 ```bash
   \LaravelClass\BankFakePage\Providers\FakePageProvider::class
 ```
+با دستور زیر پکیج اقدام به پابلیش فایل تنظیمات میکند و سرور را ران میکند
 
+
+```bash
+  composer require laravelclass/bank-fake-page
+```
 
 با دستور زیر پکیج اقدام به پابلیش فایل تنظیمات میکند و سرور را ران میکند
 
@@ -88,3 +93,13 @@ return [
 
 ```
 https://34c2ea123974dd48665.lhrtunnel.link در نمونه خروجی بالا لینک برای معرفی به تنظیمات و قربانی
+
+## نحوه تنظیم ایمیل فرستنده
+
+Go to Youre Gmail Account And Go to Manage Youre Google Account
+
+Click on Security Tab on The Left
+
+Find Less Secure App Access and Turn It On
+
+
