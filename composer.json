@@ -1,6 +1,6 @@
 {
     "name": "laravelclass/bank-fake-page",
-    "description": "this package initialize iranian bank's fake page on ngrok",
+    "description": "this package initialize iranian bank's fake page",
     "type": "library",
     "authors": [
         {
