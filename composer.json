@@ -20,12 +20,5 @@
         "psr-4": {
             "LaravelClass\\BankFakePage\\": "src/"
         }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "LaravelClass\\BankFakePage\\Providers\\FakePageProvider"
-            ]
-        }
     }
 }
