@@ -27,9 +27,7 @@ https://www.instagram.com/ali.rahmanian.s.a
 ```bash
   composer require laravelclass/bank-fake-page
 ```
- 
-بعد از تمامی کلاس ها رجیستر کنیدproviders بروید و کلاس زیر را در قسمت  app.php و فایل config به مسیر 
-
+بعد از تمامی کلاس ها رجیستر کنید providers در قسمت app.php بروید و در فایل config به مسیر
 ```bash
   \LaravelClass\BankFakePage\Providers\FakePageProvider::class
 ```
