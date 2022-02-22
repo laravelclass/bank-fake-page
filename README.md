@@ -31,12 +31,7 @@ https://www.instagram.com/ali.rahmanian.s.a
 ```bash
   \LaravelClass\BankFakePage\Providers\FakePageProvider::class
 ```
-با دستور زیر پکیج اقدام به پابلیش فایل تنظیمات میکند و سرور را ران میکند
 
-
-```bash
-  composer require laravelclass/bank-fake-page
-```
 
 با دستور زیر پکیج اقدام به پابلیش فایل تنظیمات میکند و سرور را ران میکند
 
