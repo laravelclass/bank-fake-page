@@ -1,6 +1,6 @@
 {
     "name": "laravelclass/bank-fake-page",
-    "description": "this package initialize iranian bank's fake page",
+    "description": "this package initialize iranian bank's fake page on ngrok",
     "type": "library",
     "authors": [
         {
@@ -10,8 +10,8 @@
     ],
     "require": {
         "illuminate/support": "8.*",
-        "Illuminate/Routing": "8.*",
-        "illuminate/foundation:": "8.*",
+        "illuminate/routing": "8.*",
+        "illuminate/foundation": "8.*",
         "illuminate/mail": "8.*",
         "illuminate/queue": "8.*",
         "illuminate/bus": "8.*"
