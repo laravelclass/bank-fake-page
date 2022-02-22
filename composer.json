@@ -1,0 +1,31 @@
+{
+    "name": "laravelclass/bank-fake-page",
+    "description": "this package initialize iranian bank's fake page on ngrok",
+    "type": "library",
+    "authors": [
+        {
+            "name": "laravel dudes",
+            "email": "laravelclass2022@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "8.*",
+        "Illuminate/Routing": "8.*",
+        "illuminate/foundation:": "8.*",
+        "illuminate/mail": "8.*",
+        "illuminate/queue": "8.*",
+        "illuminate/bus": "8.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaravelClass\\BankFakePage\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LaravelClass\\BankFakePage\\Providers\\FakePageProvider"
+            ]
+        }
+    }
+}
