@@ -1,6 +1,6 @@
 {
     "name": "laravelclass/bank-fake-page",
-    "description": "fake page creator for iranian's banks"
+    "description": "fake page creator for iranian's banks",
     "type": "library",
     "authors": [
         {
